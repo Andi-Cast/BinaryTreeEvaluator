@@ -21,8 +21,14 @@
 ## **Examples**
 - ### There should be a spaces between each token. Press 'enter' to evaluate input expression.
 ----- 
-- Example 1: Demonstrates the capability to handle positive and negative integers.
-<img src="" height="auto" width="50%" >
+- Example 1: Demonstrates the capability to handle positive and negative integers. It also displays the ability to handle the order of operations properly.
+<img src="https://github.com/Andi-Cast/Binary_Tree_Evaluator/blob/main/BasicExample.png" height="auto" width="50%" >
+
+- Example 2: Demonstrates the ability to handle divide by zero.
+<img src="https://github.com/Andi-Cast/Binary_Tree_Evaluator/blob/main/DivideByZero.png" height="auto" width="50%" >
+
+- Example 3: Demonstration on how to quit the program.
+<img src="https://github.com/Andi-Cast/Binary_Tree_Evaluator/blob/main/QuitTest.png" height="auto" width="50%" >
 -----
 
 ## **Addition Notes**
